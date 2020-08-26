@@ -66,3 +66,8 @@ button {
   display: block;
   padding: 4px;
 }
+
+div #jeopardy_answer button {
+  width: 150px;
+  align-items: center;
+}
